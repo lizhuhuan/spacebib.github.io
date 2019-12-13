@@ -3,17 +3,22 @@
    -   统计某段时间内用户步数、距离信息，用户爬了多次级楼梯，处理用户运动与健康的信息<br>
    -   iOS8.0以后使用
    
+   
 ##  2、使用
 - 在对应的类中导入CoreMotion库 ：` <CoreMotion/CoreMotion.h>`
    
    ```
+   
  #import “ViewController.h"
  #import <CoreMotion/CoreMotion.h
-@interface ViewController ()
-@property(nonatomic,strong) CMPedometer *pedometer; 
-@end  
-```
+ @interface ViewController ()
+ @property(nonatomic,strong) CMPedometer *pedometer; 
+ @end  
+
+ ```
+
 - 在ViewDidLoad方法里面实现
+
  
  ```
      //初始化
@@ -43,8 +48,12 @@
 ##1、介绍
   - 参考Google地图开发者中心：[https://developers.google.com/](https://developers.google.com/maps/)
   
+  
 ##2、使用
+
+
 ### 地图
+
 
 - 在需要显示GoogleMap的页面，引入库
 
@@ -72,7 +81,10 @@
  [self.view addSubview:mapView_];
 
 	```
+	
+	
 ###定位
+
 
 - 定位调用头文件以及遵守协议并声明
 
@@ -142,6 +154,7 @@
 
 -   注：需要在`info.plist`中，添加权限，并描述
 
+
 	```
     //只能用于应用在前台时需要获取用户位置的权限说明
     NSLocationWhenInUseUsageDescription
@@ -163,8 +176,11 @@
 
 
 #3、CMPedometer（计步器）跟定位结合使用
+
+
 -  在viewDidLoad中，开启计步器，用户需要同意授权获取用户的健康与运动
 - 当检测到手机有进行移动，会进入回调方法
+
 
 	```
 	startPedometerUpdatesFromDate:(NSDate *)start withHandler:(CMPedometerHandler)handler
