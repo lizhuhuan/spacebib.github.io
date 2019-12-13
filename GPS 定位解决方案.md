@@ -73,11 +73,13 @@
 
 
 	```
- GMSCameraPosition *camera = [GMSCameraPosition cameraWithLatitude:-33.86
-                                                            longitude:151.20
-                                                                 zoom:6];
- mapView_ = [GMSMapView mapWithFrame:CGRectMake(0, 0, WIDTH, HEIGHT/5*3) camera:camera];
- [self.view addSubview:mapView_];
+	
+	 GMSCameraPosition *camera = [GMSCameraPosition cameraWithLatitude:-33.86
+	                                                            longitude:151.20
+	                                                                 zoom:6];
+	 mapView_ = [GMSMapView mapWithFrame:CGRectMake(0, 0, WIDTH, HEIGHT/5*3) camera:camera];
+	 [self.view addSubview:mapView_];
+
 
 	```
 	
