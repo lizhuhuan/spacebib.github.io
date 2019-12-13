@@ -7,8 +7,7 @@
 ##  2、使用
 - 在对应的类中导入CoreMotion库 ：` <CoreMotion/CoreMotion.h>`
    
-   ```
-   
+ ```
  #import “ViewController.h"
  #import <CoreMotion/CoreMotion.h
  @interface ViewController ()
@@ -34,7 +33,8 @@
                 NSLog(@"距离====%@",pedometerData.distance);
             }
     }];
-    ```
+    
+ ```
     
 - 注：需要在`info.plist`文件中添加权限，并描述：
 	
@@ -44,19 +44,18 @@
 	```
 	
 	
-#二、google地图定位
-##1、介绍
+# 二、google地图定位
+## 1、介绍
   - 参考Google地图开发者中心：[https://developers.google.com/](https://developers.google.com/maps/)
   
   
-##2、使用
+## 2、使用
 
 
 ### 地图
 
 
 - 在需要显示GoogleMap的页面，引入库
-
 
 	```
 	<GoogleMaps/GoogleMaps.h>
@@ -83,7 +82,7 @@
 	```
 	
 	
-###定位
+### 定位
 
 
 - 定位调用头文件以及遵守协议并声明
@@ -175,7 +174,7 @@
 
 
 
-#3、CMPedometer（计步器）跟定位结合使用
+# 3、CMPedometer（计步器）跟定位结合使用
 
 
 -  在viewDidLoad中，开启计步器，用户需要同意授权获取用户的健康与运动
