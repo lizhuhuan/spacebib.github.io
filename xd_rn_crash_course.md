@@ -2,7 +2,8 @@
 
 ### 学习 ES6
 
-https://egghead.io/courses/learn-es6-ecmascript-2015
++ https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be
++ https://es6console.com/
 
 
 ### 安装开发环境
@@ -15,13 +16,11 @@ https://egghead.io/courses/learn-es6-ecmascript-2015
 
 按一下顺序完成速成教程:
 
-+ [https://github.com/wix/react-native-crash-course/blob/master/docs/App.Intro.md](https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md)
-+ [https://github.com/wix/react-native-crash-course/blob/master/docs/App.Navigation.md](https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md)
-+ [https://github.com/wix/react-native-crash-course/blob/master/docs/App.Remx.md](https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md)
-+ [https://github.com/wix/react-native-crash-course/blob/master/docs/App.UiLib.md](https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md)
-+ [https://github.com/wix/react-native-crash-course/blob/master/docs/App.e2e.md](https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md)
-+ [https://github.com/wix/react-native-crash-course/blob/master/docs/App.tests.md](https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md)
-+ [https://github.com/wix/react-native-crash-course/blob/master/docs/App.NativeModule.md](https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md)
-+ [https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md](https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md)
-
++ https://github.com/wix/react-native-crash-course/blob/master/docs/App.Navigation.md
++ https://github.com/wix/react-native-crash-course/blob/master/docs/App.UiLib.md
++ https://github.com/wix/react-native-crash-course/blob/master/docs/App.UiLib.md
++ https://github.com/wix/react-native-crash-course/blob/master/docs/App.e2e.md
++ https://github.com/wix/react-native-crash-course/blob/master/docs/App.tests.md
++ https://github.com/wix/react-native-crash-course/blob/master/docs/App.NativeModule.md
++ https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md
 
