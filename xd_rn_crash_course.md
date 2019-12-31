@@ -17,7 +17,7 @@
 按一下顺序完成速成教程:
 
 + https://github.com/wix/react-native-crash-course/blob/master/docs/App.Navigation.md
-+ https://github.com/wix/react-native-crash-course/blob/master/docs/App.UiLib.md
++ https://github.com/wix/react-native-crash-course/blob/master/docs/App.Remx.md
 + https://github.com/wix/react-native-crash-course/blob/master/docs/App.UiLib.md
 + https://github.com/wix/react-native-crash-course/blob/master/docs/App.e2e.md
 + https://github.com/wix/react-native-crash-course/blob/master/docs/App.tests.md
