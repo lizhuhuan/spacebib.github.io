@@ -18,7 +18,7 @@
 
 ## 涉及知识点
 
-1.NSDate中存的是 UTC(时间标准时间)
+1. NSDate中存的是 UTC(时间标准时间)
 2. NSDateFormatter
-3.[NSTimeZone timeZoneForSecondsFromGMT:0]
-4.[NSTimeZone timeZoneWithName:serverTimeZone]
+3. [NSTimeZone timeZoneForSecondsFromGMT:0]
+4. [NSTimeZone timeZoneWithName:serverTimeZone]
