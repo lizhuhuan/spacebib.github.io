@@ -11,10 +11,10 @@
 
 ## 解决问题思路
 
-1.服务器返回时间为NSString, 已转换为UTC
-2.通过 NSDateFormatter, 把NSString转为NSDate
+1. 服务器返回时间为NSString, 已转换为UTC
+2. 通过 NSDateFormatter, 把NSString转为NSDate
 3. 把当前时间与服务器返回的时间,统一到服务器返回的时区
-4.通过 NSComparisonResult result = [date1 compare:date2]比较两个日期的大小
+4. 通过 NSComparisonResult result = [date1 compare:date2]比较两个日期的大小
 
 ## 涉及知识点
 
