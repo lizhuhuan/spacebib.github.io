@@ -14,5 +14,5 @@
 
 ## IOS Development Tips
 
-+ [解决计步器定问题](https://spacebib.github.io/lzh_GPS_solution)
++ [解决计步器定位问题](https://spacebib.github.io/lzh_GPS_solution)
 + [解决时区对比问题](https://spacebib.github.io/lzh_working_with_timezone)
