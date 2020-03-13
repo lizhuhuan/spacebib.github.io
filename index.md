@@ -1,6 +1,6 @@
 ## 测试驱动开发（Test Driven Development）
 
-测试驱动开发，英文全称Test-Driven Development，简称TDD，是一种不同于传统软件开发流程的新型的开发方法。
+测试驱动开发，英文全称 Test-Driven Development，简称 TDD，是一种不同于传统软件开发流程的新型的开发方法。
 
 + [TDD 的优点](https://spacebib.github.io/ykw_advantages_of_tdd)
 + [为什么要用TDD](https://spacebib.github.io/ls_advantage_of_tdd)
