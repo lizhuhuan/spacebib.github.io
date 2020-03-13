@@ -11,3 +11,8 @@
 + [测试与数据库的交互](https://spacebib.github.io/ykw_test_with_database)
 + [测试 laravel 的中间件](https://spacebib.github.io/ykw_unit_test_middleware)
 + [Facade 使用和测试](https://spacebib.github.io/ykw_facade)
+
+## IOS Development Tips
+
++ [解决计步器定问题](https://spacebib.github.io/lzh_GPS_solution)
++ [解决时区对比问题](https://spacebib.github.io/lzh_working_with_timezone)
