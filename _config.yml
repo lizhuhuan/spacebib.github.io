@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Space Tech]
 description: [Spacebib Tech 博客]
-show_downloads: ["false"]
+show_downloads: false
