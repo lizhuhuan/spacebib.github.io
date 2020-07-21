@@ -9,8 +9,13 @@
     + `use my_db;`
     + `show users;`
 
+### Database
++ There is no CREATE DATABASE statement in MongoDB like there is in SQL. To create a database in MongoDB, simply switch to a non-existent database, then insert data into it: `use homstead`
+
+
 ### Collection
 
++ List all collections of a database: `show collections;`
 + Find all: `db.collectionName.find({})`
 
 
