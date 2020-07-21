@@ -17,6 +17,7 @@
 
 + List all collections of a database: `show collections;`
 + Find all: `db.collectionName.find({})`
++ Format result: `db.collectionName.find({}).pretty()`
 
 
 ### Backup a database
