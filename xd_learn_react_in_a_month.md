@@ -58,11 +58,15 @@
     + Jest 测试
     + Container Component
 
-### 学习 Formik
+### ~~学习 Formik~~
 
 + 独立完成此[教程](https://jaredpalmer.com/formik/docs/tutorial)
 + 通过以上学习，你需要理解：
     + 使用 Redux 来处理 Form 是一个不理想的方案 
+
+### 学习 React Hook Form
+
++ 独立完成此[教程](https://react-hook-form.com/get-started/#Quickstart)
 
 ### 学习 Storybook
 
