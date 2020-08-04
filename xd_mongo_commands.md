@@ -4,7 +4,7 @@
 
 ### Mongo
 
-+ Login as user to a database: `mongo -u admin -p passsword -authenticationDatabase db`
++ Login as user to a database: `mongo --host localhost -u admin -p passsword -authenticationDatabase db`
 + Show users of one particular database: 
     + `use my_db;`
     + `show users;`
