@@ -12,6 +12,23 @@
 ### Database
 + There is no CREATE DATABASE statement in MongoDB like there is in SQL. To create a database in MongoDB, simply switch to a non-existent database, then insert data into it: `use homstead`
 
+### User
+
++ Create an user for a specific database:
+
++ Switch to the db
+```use my_db```
+
++ Create the user 
+```
+db.createUser(
+   {
+     user: "homestead",
+     pwd: "secrete",
+     roles: [ "readWrite", "dbAdmin" ]
+   }
+);
+```
 
 ### Collection
 
