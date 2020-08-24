@@ -24,7 +24,7 @@
 db.createUser(
    {
      user: "homestead",
-     pwd: "secrete",
+     pwd: "secret",
      roles: [ "readWrite", "dbAdmin" ]
    }
 );
