@@ -42,3 +42,20 @@ db.createUser(
 + Zip it: ```zip -r dump.zip dump/```
 + Download to local
 + Restore: ```mongorestore --username=dev --password="password" --authenticationDatabase=your-db dump/```
+
+
+
+### Troubleshoot
+
+
+#### Query Targeting: Scanned Objects / Returned has gone above 1000
+
+
+**Explaination**
+
+https://intercom.help/mongodb-atlas/en/articles/892313-understanding-the-query-targeting-alert
+
+
+**Todo**
+
+ `db.students.createIndex({name:1})`
